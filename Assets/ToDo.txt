@@ -1,0 +1,2 @@
+PlayerPrefs.SetInt(key, value)
+PlayerPrefs.GetInt(key)
